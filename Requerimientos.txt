@@ -1,0 +1,10 @@
+Instalar los siguientes paquetes para hacer funcionar el siguiente proyecto:
+-Django
+-certifi
+-chardet
+-idna
+-pip
+-pytz
+-requests
+-setuptools
+-urllib3
